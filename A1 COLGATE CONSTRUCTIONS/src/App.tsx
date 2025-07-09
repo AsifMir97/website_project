@@ -3,6 +3,11 @@ import Hero from "./pages/Hero";
 import About from "./pages/About";
 import Navbar from "./components/Navbar";
 
+
+
+
+
+
 function App() {
   return (
     <Router>
