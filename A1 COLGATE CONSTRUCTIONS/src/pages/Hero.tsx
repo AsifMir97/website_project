@@ -86,24 +86,6 @@ const Hero = () => {
           </div>
         </div>
       </section>
-
-      {/* Contact Section */}
-      <section
-        id="contact"
-        className="py-20 px-4 bg-gray-100 dark:bg-gray-900 scroll-mt-20"
-      >
-        <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl font-bold uppercase mb-6">Contact Us</h2>
-          <p className="mb-6 text-gray-700 dark:text-gray-300">
-            Reach out to us for your next restoration project.
-          </p>
-          <div className="space-y-2 text-gray-800 dark:text-white">
-            <p>📞 (123) 456-7890</p>
-            <p>✉️ info@a1colgaterestoration.com</p>
-            <p>📍 New York, NY</p>
-          </div>
-        </div>
-      </section>
     </>
   );
 };

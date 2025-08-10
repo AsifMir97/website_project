@@ -3,7 +3,10 @@ import { Link, useLocation } from "react-router-dom";
 
 const navLinks = [
   { name: "Home", path: "/" },
-  { name: "About", path: "/about" },
+  { name: "About", path: "/About_us" },
+  { name: "Our Work", path: "/our_work" },
+  { name: "Projects", path: "/projects" },
+  { name: "Contact", path: "/Contact_us" },
 ];
 
 const Navbar = () => {
